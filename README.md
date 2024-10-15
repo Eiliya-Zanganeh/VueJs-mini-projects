@@ -1,1 +1,1 @@
-# Mini Project with VueJs
+# Mini Projects with VueJs
